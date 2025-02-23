@@ -8,4 +8,4 @@ Translated : 1%
 ## Install
 use *zarchiver*
 
-## Sadly but i dont think this project is possible
+## Sadly but this is not possible =(
